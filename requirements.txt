@@ -1,0 +1,5 @@
+Django==5.2
+pillow==11.3.0
+psycopg2==2.9.10
+django-mptt==0.17.0
+django-mptt-admin==2.8.0
